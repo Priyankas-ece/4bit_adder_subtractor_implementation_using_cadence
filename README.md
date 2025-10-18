@@ -4,7 +4,7 @@
 This project presents the **design, layout, and verification of a 4-bit adder-subtractor circuit** using **Cadence Virtuoso**.  
 The objective of the project is to develop a combinational arithmetic circuit capable of performing both **addition and subtraction** operations on 4-bit binary inputs based on a single control signal.  
 
-This work serves as a fundamental building block in **Arithmetic Logic Unit (ALU)** design, forming the core of digital processors. 
+This work serves as a fundamental building block in **Arithmetic Logic Unit (ALU)** design, forming the core of digital processors.  
 The project demonstrates complete **VLSI design flow** — from schematic creation to layout generation, followed by **Design Rule Check (DRC)** and **Layout vs. Schematic (LVS)** verification.
 
 ## 🎯 Objectives
@@ -102,6 +102,6 @@ Technology Node: GPDK 180nm
 - Gained hands-on understanding of digital VLSI design flow and hierarchical circuit implementation.
 
 ## 👩‍💻 Author
-Priyanka S
-VLSI Design & Verification Enthusiast
+Priyanka S  
+VLSI Design & Verification Enthusiast  
 Cadence Tools | Digital Circuit Design | Frontend & Backend VLSI
