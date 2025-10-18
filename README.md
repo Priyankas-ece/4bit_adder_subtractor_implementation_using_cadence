@@ -90,9 +90,9 @@ All screenshots are included in the `screenshots/` directory:
 - **Simulation Waveforms**
 
 ## 🧮 Tools and Technologies Used
-Cadence Virtuoso – Schematic and Layout design
-Cadence Spectre – Functional Simulation
-Assura – DRC and LVS verification
+Cadence Virtuoso – Schematic and Layout design  
+Cadence Spectre – Functional Simulation  
+Assura – DRC and LVS verification  
 Technology Node: GPDK 180nm
 
 ## ✅ Key Outcomes
