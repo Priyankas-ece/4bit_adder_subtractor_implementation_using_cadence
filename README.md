@@ -47,6 +47,7 @@ The subtraction operation is achieved by complementing the B inputs when `M = 1`
 ### Block Diagram 
 
 <img width="1248" height="832" alt="4bit_add_sub" src="https://github.com/user-attachments/assets/f2fc501c-fbea-4cb3-9fe0-9a948282b69e" />
+<img width="1451" height="788" alt="4Bit_adder_subtractor" src="https://github.com/user-attachments/assets/5167c311-b588-464d-be54-b54440701d9a" />
 
 ## 🧩 Design Methodology
 
@@ -56,12 +57,12 @@ The subtraction operation is achieved by complementing the B inputs when `M = 1`
 - All nodes and ports were properly named for LVS matching.
 
 ### Step 2: **Layout Design**
-- Layouts for all modules were created using **Virtuoso Layout Editor**.  
+- Layouts for all modules were created using `Virtuoso Layout Editor`.  
 - Metal layers and vias were placed following DRC constraints.  
 - Hierarchical layout generation was performed for the 4-bit adder-subtractor.
 
 ### Step 3: **Design Rule Check (DRC)**
-- Conducted using **Assura DRC** to ensure compliance with foundry-specific design rules.  
+- Conducted using `Assura DRC` to ensure compliance with foundry-specific design rules.  
 - No spacing, width, or enclosure violations were observed.  
 
 ### Step 4: **Layout vs. Schematic (LVS)**
@@ -69,7 +70,7 @@ The subtraction operation is achieved by complementing the B inputs when `M = 1`
 - Successful LVS ensures that the physical layout accurately represents the designed schematic.
 
 ### Step 5: **Simulation and Verification**
-- Functional simulation performed using **Cadence Spectre**.  
+- Functional simulation performed using `Cadence Spectre`.  
 - Verified that outputs match expected addition and subtraction results for all input combinations.
 
 ## 📈 Simulation Results
@@ -82,7 +83,7 @@ The subtraction operation is achieved by complementing the B inputs when `M = 1`
 Waveform and output plots confirm correct arithmetic functionality for all cases.
 
 ## 🖼️ Layout and Verification Screenshots
-All screenshots are included in the `screenshots/` directory:
+All screenshots are included in the specific directory:
 - **Schematic View** 
 - **Layout View**
 - **DRC Report Screenshot**  
